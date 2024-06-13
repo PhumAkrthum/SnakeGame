@@ -22,7 +22,7 @@ Make sure you have Python installed on your machine. You can download it from [p
     cd snake-game
     ```
 3. Install the required libraries:
-    ```bash
+    ```python
     pip install pygame
     ```
 
