@@ -15,11 +15,11 @@ Make sure you have Python installed on your machine. You can download it from [p
 ### :minidisc: Installation
 1. Clone the repository:
    ```bash
-    git clone https://github.com/your-username/snake-game.git
+    git clone https://github.com/ABr-hub/SnakeGame.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd snake-game
+    cd SnakeGame
     ```
 3. Install the required libraries:
     ```python
@@ -29,7 +29,7 @@ Make sure you have Python installed on your machine. You can download it from [p
 ### :running_man: Running the Game
 To start the game, simply run the following command:
    ```bash
-   python snake.py
+   python snakeGame.py
    ```
 
 ## :mechanical_arm: Contributing
