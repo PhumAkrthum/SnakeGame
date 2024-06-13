@@ -13,12 +13,18 @@ In Snake, the player controls a snake that moves around the screen, consuming fo
 Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/).
 
 ### :minidisc: Installation
+1. Clone the repository:
+
+2. Navigate to the project directory:
+
+3. Install the required libraries:
+
+### :running_man: Running the Game
+To start the game, simply run the following command:
 
 
 ## :mechanical_arm: Contributing
-
 I welcome contributions from the community! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request. Please make sure to add a link to this repo and mention it in your publication.
 
 ## :+1: Acknowledgments
-
 Special thanks to the developers and the open-source community for providing valuable resources and inspiration for this project.
