@@ -7,3 +7,9 @@ In Snake, the player controls a snake that moves around the screen, consuming fo
 ## Technologies Used
 * Programming Language: Python
 * Libraries: Pygame for graphics and game mechanics
+
+## Getting Started
+### Prerequisites
+Make sure you have Python installed on your machine. You can download it from python.org.
+
+### Installation
