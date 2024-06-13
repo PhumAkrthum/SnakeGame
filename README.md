@@ -10,7 +10,7 @@ In Snake, the player controls a snake that moves around the screen, consuming fo
 
 ## Getting Started
 ### Prerequisites
-Make sure you have Python installed on your machine. You can download it from python.org.
+Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/).
 
 ### Installation
 
