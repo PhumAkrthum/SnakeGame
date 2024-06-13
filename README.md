@@ -17,15 +17,20 @@ Make sure you have Python installed on your machine. You can download it from [p
    ```bash
     git clone https://github.com/your-username/snake-game.git
     ```
-   
-
-3. Navigate to the project directory:
-
-4. Install the required libraries:
+2. Navigate to the project directory:
+    ```bash
+    cd snake-game
+    ```
+3. Install the required libraries:
+    ```bash
+    pip install pygame
+    ```
 
 ### :running_man: Running the Game
 To start the game, simply run the following command:
-
+   ```bash
+   python snake.py
+   ```
 
 ## :mechanical_arm: Contributing
 I welcome contributions from the community! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request. Please make sure to add a link to this repo and mention it in your publication.
