@@ -12,13 +12,13 @@ In Snake, the player controls a snake that moves around the screen, consuming fo
 ### Prerequisites
 Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/).
 
-### Installation
+### :minidisc: Installation
 
 
-## Contributing
+## :mechanical_arm: Contributing
 
 I welcome contributions from the community! If you have ideas for new features or improvements, feel free to fork the repository and submit a pull request. Please make sure to add a link to this repo and mention it in your publication.
 
-## Acknowledgments
+## :+1: Acknowledgments
 
 Special thanks to the developers and the open-source community for providing valuable resources and inspiration for this project.
