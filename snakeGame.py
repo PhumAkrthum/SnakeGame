@@ -5,7 +5,7 @@ import random
 # Global variables
 # Board / Field
 SCREEN_WIDTH = 480
-SCREEN_HEIGHT = 480
+SCREEN_HEIGHT = 48099
 
 GRIDSIZE = 20 
 GRID_WIDTH = SCREEN_HEIGHT / GRIDSIZE
